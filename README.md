@@ -18,3 +18,7 @@ A Graphical User Interface enables users to interact with the simulation by addi
 **Watch the Demo**
 
 [Airport Simulator Demo.mp4](https://github.com/Jacqueline2727/Airport-Simulator/blob/main/Airport%20Simulator%20Demo.mp4)
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/f434d8cd-f80c-48be-b781-de00ceaa1f14" />
+
+
